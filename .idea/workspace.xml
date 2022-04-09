@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b31095c-2705-43e2-98cb-00fe66de5e6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="21jrBzki7vzia0qiGHfvDPvU3jH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PORTAL" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tumisho-PC\Desktop\EDU MAFIA WEBSITE\assets\frontend\images" />
+      <recent name="C:\Users\Tumisho-PC\Desktop\EDU MAFIA WEBSITE\frontend\matholympiad" />
+      <recent name="C:\Users\Tumisho-PC\Desktop\EDU MAFIA WEBSITE\frontend" />
+      <recent name="C:\Users\Tumisho-PC\Desktop\EDU MAFIA WEBSITE\assets\images" />
+      <recent name="C:\Users\Tumisho-PC\Desktop\admin\demo.neontheme.com\application\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tumisho-PC\Desktop\EDU MAFIA WEBSITE\assets\frontend\js" />
+      <recent name="C:\Users\Tumisho-PC\Desktop\admin\demo.neontheme.com" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b31095c-2705-43e2-98cb-00fe66de5e6d" name="Default Changelist" comment="" />
+      <created>1638465206332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638465206332</updated>
+      <workItem from="1638465207613" duration="98000" />
+      <workItem from="1638482006084" duration="1514000" />
+      <workItem from="1638529973257" duration="633000" />
+      <workItem from="1638541428648" duration="663000" />
+      <workItem from="1638542330867" duration="10000" />
+      <workItem from="1638545952523" duration="1591000" />
+      <workItem from="1638548275291" duration="891000" />
+      <workItem from="1638563447780" duration="678000" />
+      <workItem from="1638639785317" duration="4535000" />
+      <workItem from="1638657068193" duration="2446000" />
+      <workItem from="1638660478472" duration="9651000" />
+      <workItem from="1638692187343" duration="3592000" />
+      <workItem from="1638716361663" duration="566000" />
+      <workItem from="1638716955378" duration="3655000" />
+      <workItem from="1638772647516" duration="13011000" />
+      <workItem from="1638838310396" duration="4082000" />
+      <workItem from="1638875994332" duration="3083000" />
+      <workItem from="1638955769457" duration="86000" />
+      <workItem from="1638955964352" duration="12428000" />
+      <workItem from="1638995397525" duration="3555000" />
+      <workItem from="1639028974594" duration="11579000" />
+      <workItem from="1639043417751" duration="6590000" />
+      <workItem from="1639058283665" duration="53000" />
+      <workItem from="1639061080629" duration="13600000" />
+      <workItem from="1639126648790" duration="4040000" />
+      <workItem from="1639141195184" duration="7290000" />
+      <workItem from="1639214069161" duration="1812000" />
+      <workItem from="1639413093805" duration="732000" />
+      <workItem from="1639506077141" duration="1436000" />
+      <workItem from="1639570823009" duration="949000" />
+      <workItem from="1639578913145" duration="14000" />
+      <workItem from="1639653760228" duration="2745000" />
+      <workItem from="1639726381591" duration="22000" />
+      <workItem from="1641160626090" duration="5070000" />
+      <workItem from="1641934464358" duration="1539000" />
+      <workItem from="1642004940471" duration="23017000" />
+      <workItem from="1642598419485" duration="131000" />
+      <workItem from="1642600997276" duration="3000" />
+      <workItem from="1644431961386" duration="30000" />
+      <workItem from="1644432056546" duration="23000" />
+      <workItem from="1644432081272" duration="9000" />
+      <workItem from="1647935982968" duration="741000" />
+      <workItem from="1648808321281" duration="5231000" />
+      <workItem from="1648821775391" duration="6872000" />
+      <workItem from="1649002116492" duration="48000" />
+      <workItem from="1649002176838" duration="2865000" />
+      <workItem from="1649161257999" duration="7691000" />
+      <workItem from="1649264269494" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
