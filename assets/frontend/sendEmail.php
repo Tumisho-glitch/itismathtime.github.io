@@ -15,7 +15,7 @@ $headers .= 'From: '.$email."\r\n".
     'Reply-To: '.$email."\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
-$result = mail($email, "MESSAGE FROM EDU MAFIA WEBSITE", $message_structure, $headers);
+$result = mail("support@itismathtime.co.za", "MESSAGE FROM EDU MAFIA WEBSITE", $message_structure, $headers);
 
     if ($result){
         //if the email was sent return success message
