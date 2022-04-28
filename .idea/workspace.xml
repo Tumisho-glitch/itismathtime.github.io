@@ -38,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649585255940</updated>
       <workItem from="1649585257417" duration="1258000" />
+      <workItem from="1650030024154" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="Removed comments on clients section">
       <created>1649585321077</created>
@@ -69,6 +70,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Removed comments on clients section" />
