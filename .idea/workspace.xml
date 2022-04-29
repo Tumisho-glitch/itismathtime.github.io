@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa9f1925-c4e3-4460-bf3a-793f90c7935c" name="Default Changelist" comment="Fixed Contact Form&#10;Now sends emails to support@itismathtime.co.za">
-      <change afterPath="$PROJECT_DIR$/assets/frontend/modules/getAnnouncements.php" afterDir="false" />
+    <list default="true" id="aa9f1925-c4e3-4460-bf3a-793f90c7935c" name="Default Changelist" comment="Tried to do an updated announcement service&#10;But Hostinger won't connect, do this when hostinger allows connections from itismathtime.co.za">
+      <change afterPath="$PROJECT_DIR$/assets/frontend/HH.Json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/frontend/js/Announcements/AnnouncementsScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frontend/modules/getAnnouncements.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +58,9 @@
       <workItem from="1651131337242" duration="1306000" />
       <workItem from="1651134720152" duration="751000" />
       <workItem from="1651135622711" duration="2567000" />
-      <workItem from="1651223429832" duration="307000" />
+      <workItem from="1651223429832" duration="7094000" />
+      <workItem from="1651238661575" duration="599000" />
+      <workItem from="1651259177791" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="Removed comments on clients section">
       <created>1649585321077</created>
@@ -78,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651136121574</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tried to do an updated announcement service&#10;But Hostinger won't connect, do this when hostinger allows connections from itismathtime.co.za">
+      <created>1651224138963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651224138963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +119,7 @@
     <MESSAGE value="Removed comments on clients section" />
     <MESSAGE value="Removed comments on clients section&#10;Removed links on programmes&#10;Changed the 12th grade text on the breadcrcumbs to 11nth grade" />
     <MESSAGE value="Fixed Contact Form&#10;Now sends emails to support@itismathtime.co.za" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Contact Form&#10;Now sends emails to support@itismathtime.co.za" />
+    <MESSAGE value="Tried to do an updated announcement service&#10;But Hostinger won't connect, do this when hostinger allows connections from itismathtime.co.za" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tried to do an updated announcement service&#10;But Hostinger won't connect, do this when hostinger allows connections from itismathtime.co.za" />
   </component>
 </project>

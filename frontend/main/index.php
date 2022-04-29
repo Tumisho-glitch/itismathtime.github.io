@@ -1,11 +1,3 @@
-<?php
-
-include "../../assets/frontend/modules/getAnnouncements.php";
-
-
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <!-- Mirrored from demo.neontheme.com/frontend/main/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Dec 2021 17:06:09 GMT -->
@@ -20,7 +12,7 @@ include "../../assets/frontend/modules/getAnnouncements.php";
     <link rel="icon" href="../../assets/frontend/images/mafia-100.jpg">
 
 
-    <title>Neon | Frontend</title>
+    <title>it is MATH time | Frontend</title>
     <link rel="stylesheet" href="../../assets/frontend/css/bootstrap.css" id="style-resource-1">
     <link rel="stylesheet" href="../../assets/frontend/css/font-icons/entypo/css/entypo.css" id="style-resource-2">
     <link rel="stylesheet" href="../../assets/frontend/css/neon.css" id="style-resource-3">
@@ -233,33 +225,31 @@ include "../../assets/frontend/modules/getAnnouncements.php";
     <section class="features-blocks">
         <div class="container">
             <div class="row vspace">
+
+                <h3>
+                        IT IS MATH TIME ANNOUNCEMETS
+                </h3>
+
+
                 <div class="col-sm-4">
-                    <div class="feature-block"><h3>
-
-                    </h3>
-                        <p>
-                            <?php
-
-                            echo $announcements_array(0);
-
-                            ?>
-                        </p></div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature-block"><h3>
-                        it is MATH time Announcements
-                    </h3>
-                        <p>
+                    <div class="feature-block">
+                        <p id="Announcement-1">
                             We focus on application learning where individuals are required not to cram but understand and be able to
                             apply their knowledge in real life problems.<br><br>This is essential in fields such as the medical, civil and
                             software engineering and politics which are all essential in the improvement of a country as a whole
                         </p></div>
                 </div>
                 <div class="col-sm-4">
-                    <div class="feature-block"><h3>
-
-                    </h3>
-                        <p>
+                    <div class="feature-block">
+                        <p id="Announcement-2">
+                            We focus on application learning where individuals are required not to cram but understand and be able to
+                            apply their knowledge in real life problems.<br><br>This is essential in fields such as the medical, civil and
+                            software engineering and politics which are all essential in the improvement of a country as a whole
+                        </p></div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="feature-block">
+                        <p id="Announcement-3">
                             We rely solely and heavily on donations to keep our program alive and to provide more improvement
                             to our programmes as we are a non-profit company<br><br>We would appreciate any amount of donations
                             as these are our primary source of income
@@ -326,6 +316,7 @@ include "../../assets/frontend/modules/getAnnouncements.php";
 <script src="../../assets/frontend/js/resizeable.js" id="script-resource-4"></script>
 <script src="../../assets/frontend/js/neon-slider.js" id="script-resource-5"></script>
 <script src="../../assets/frontend/js/neon-custom.js" id="script-resource-6"></script>
+<script src="../../assets/frontend/js/Announcements/AnnouncementsScript.js"></script>
 
 </body>
 <!-- Mirrored from demo.neontheme.com/frontend/main/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Dec 2021 17:06:16 GMT -->
