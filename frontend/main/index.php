@@ -1,3 +1,11 @@
+<?php
+
+include "../../assets/frontend/modules/getAnnouncements.php";
+
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <!-- Mirrored from demo.neontheme.com/frontend/main/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Dec 2021 17:06:09 GMT -->
@@ -217,6 +225,59 @@
     <!--            </div>-->
     <!--        </div>-->
     <!--    </section>-->
+
+
+
+
+
+    <section class="features-blocks">
+        <div class="container">
+            <div class="row vspace">
+                <div class="col-sm-4">
+                    <div class="feature-block"><h3>
+
+                    </h3>
+                        <p>
+                            <?php
+
+                            echo $announcements_array(0);
+
+                            ?>
+                        </p></div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="feature-block"><h3>
+                        it is MATH time Announcements
+                    </h3>
+                        <p>
+                            We focus on application learning where individuals are required not to cram but understand and be able to
+                            apply their knowledge in real life problems.<br><br>This is essential in fields such as the medical, civil and
+                            software engineering and politics which are all essential in the improvement of a country as a whole
+                        </p></div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="feature-block"><h3>
+
+                    </h3>
+                        <p>
+                            We rely solely and heavily on donations to keep our program alive and to provide more improvement
+                            to our programmes as we are a non-profit company<br><br>We would appreciate any amount of donations
+                            as these are our primary source of income
+                        </p></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <hr/>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
 
 
     <section class="footer-widgets">

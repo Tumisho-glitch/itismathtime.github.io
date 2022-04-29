@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa9f1925-c4e3-4460-bf3a-793f90c7935c" name="Default Changelist" comment="Removed comments on clients section&#10;Removed links on programmes&#10;Changed the 12th grade text on the breadcrcumbs to 11nth grade">
+    <list default="true" id="aa9f1925-c4e3-4460-bf3a-793f90c7935c" name="Default Changelist" comment="Fixed Contact Form&#10;Now sends emails to support@itismathtime.co.za">
+      <change afterPath="$PROJECT_DIR$/assets/frontend/modules/getAnnouncements.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/frontend/sendEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/frontend/sendEmail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/main/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MobileAppFiles" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -46,7 +47,8 @@
       <workItem from="1651127262205" duration="1396000" />
       <workItem from="1651131337242" duration="1306000" />
       <workItem from="1651134720152" duration="751000" />
-      <workItem from="1651135622711" duration="364000" />
+      <workItem from="1651135622711" duration="2567000" />
+      <workItem from="1651223429832" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="Removed comments on clients section">
       <created>1649585321077</created>
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651127335920</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fixed Contact Form&#10;Now sends emails to support@itismathtime.co.za">
+      <created>1651136121573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651136121574</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Removed comments on clients section" />
     <MESSAGE value="Removed comments on clients section&#10;Removed links on programmes&#10;Changed the 12th grade text on the breadcrcumbs to 11nth grade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed comments on clients section&#10;Removed links on programmes&#10;Changed the 12th grade text on the breadcrcumbs to 11nth grade" />
+    <MESSAGE value="Fixed Contact Form&#10;Now sends emails to support@itismathtime.co.za" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Contact Form&#10;Now sends emails to support@itismathtime.co.za" />
   </component>
 </project>
